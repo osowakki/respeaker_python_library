@@ -32,6 +32,7 @@ It uses [PocketSphinx](https://github.com/cmusphinx/pocketsphinx) for keyword sp
 
 2. `pip install pyaudio respeaker --upgrade`
 
+(May require this fix: https://github.com/SlapBot/stephanie-va/issues/8, if you are seeing this issue: "Failed building wheel for pyaudio")
 
 3. Install hidapi (optional)
 
